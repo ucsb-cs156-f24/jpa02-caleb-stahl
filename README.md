@@ -3,7 +3,7 @@
 Repo: [https://ucsb-cs156-f24/STARTER-jpa02](https://github.com/ucsb-cs156-f24/jpa02-caleb-stahl)
 
 
-Deployed at: [[https://jpa02-caleb-stahl.dokku-08.cs.ucsb.edu](https://jpa02-caleb-stahl.dokku-08.cs.ucsb.edu)
+Deployed at: [https://jpa02-caleb-stahl.dokku-08.cs.ucsb.edu](https://jpa02-caleb-stahl.dokku-08.cs.ucsb.edu)
 
 
 # About this repo
